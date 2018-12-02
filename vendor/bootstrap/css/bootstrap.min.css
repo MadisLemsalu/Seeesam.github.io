@@ -9,3 +9,21 @@
 .dropdown:hover .dropdown-menu {
 display: block;
 }
+
+.modal-backdrop {
+  z-index: -1; 
+}
+/*background-image {
+  z-index: -3;
+}
+.visible-top {
+	z-index: -5;
+}
+
+#id {
+	z-index: -5;
+}*/
+
+#footer {
+	z-index: -2;
+}
